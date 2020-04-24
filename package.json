@@ -1,0 +1,22 @@
+{
+  "name": "js-sip",
+  "version": "1.0.0",
+  "description": "Javascript - Session Initiation Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajafik/JS-SIP.git"
+  },
+  "keywords": [
+    "sip"
+  ],
+  "author": "Oluwafikayo Ajayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajafik/JS-SIP/issues"
+  },
+  "homepage": "https://github.com/ajafik/JS-SIP#readme"
+}

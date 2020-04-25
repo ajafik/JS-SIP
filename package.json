@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ajafik/JS-SIP/issues"
   },
-  "homepage": "https://github.com/ajafik/JS-SIP#readme"
+  "homepage": "https://github.com/ajafik/JS-SIP#readme",
+  "dependencies": {
+    "jssip": "^3.4.3"
+  }
 }
